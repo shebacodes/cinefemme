@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+ul li a {
+  text-decoration: none;
+  font-size: 14px;
+  font-family: arial;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  font-size: 18px;
+  font-family: arial:
+}
+.navbar {
+  width: 100%;
+  background-color: pink;
+  overflow: auto;
+}
+.button {
+  background-color: pink;
+  border:none;
+  color:white;
+  padding: 15px 32px;
+  text-align:center;
+  font-size:14px;
+}
+.h1 {
+  font-size: 45px;
+  font-family: helvetica;
+}
+
+HTML{
+  background-image:url(https://bit.ly/2Hm9stP);
+  background-position:center;
+  background-size: cover;
+  width: 700px;
+  height: 400px;
+}
